@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cstrike MOTD</title>
+<style type="text/css">
+       body {
+            background: #000;
+            margin: 8px;
+            color: #FFB000;
+            font: normal 16px/20px Consolas, Tahoma, sans-serif;
+        }
+
+        a {
+            color: #FFF;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #EEE;
+            text-decoration: none;
+        }
+</style>
+</head>
+<body>
+Bem Vindo!
+</br>Você está jogando Counter-Strike!</br>
+Versão: 1.6 </br>
+Boa diversão!
+</body>
+</html>
